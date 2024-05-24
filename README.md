@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h4 align="left">Hi 👋! My name is Nikhil Nivas Gholap and I'm an 🚀 aspiring fullstack developer from india.<br><br>👨‍💻 Passionate about coding and continuously learning from mistakes along the journey.<br><br>🌐 Currently honing my skills in both frontend and backend development to become a versatile Fullstack Developer.<br><br>📚 Committed to lifelong learning and embracing challenges to grow professionally in the dynamic world of technology.</h4>
+<h4 align="left">Hi 👋! Myself Nikhil Nivas Gholap and I'm an 🚀 aspiring fullstack developer from india.<br><br>👨‍💻 Passionate about coding and continuously learning from mistakes along the journey.<br><br>🌐 Currently honing my skills in both frontend and backend development to become a versatile Fullstack Developer.<br><br>📚 Committed to lifelong learning and embracing challenges to grow professionally in the dynamic world of technology.</h4>
 
 
 # 📊 GitHub Stats:
