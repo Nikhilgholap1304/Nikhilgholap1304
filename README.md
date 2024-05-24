@@ -1,7 +1,8 @@
-<h2 align="left">Hi 👋! My name is Nikhil Nivas Gholap and I'm an 🚀 aspiring fullstack developer from india.<br><br>👨‍💻 Passionate about coding and continuously learning from mistakes along the journey.<br><br>🌐 Currently honing my skills in both frontend and backend development to become a versatile Fullstack Developer.<br><br>📚 Committed to lifelong learning and embracing challenges to grow professionally in the dynamic world of technology.</h2>
+# 💫 About Me:
+<h4 align="left">Hi 👋! My name is Nikhil Nivas Gholap and I'm an 🚀 aspiring fullstack developer from india.<br><br>👨‍💻 Passionate about coding and continuously learning from mistakes along the journey.<br><br>🌐 Currently honing my skills in both frontend and backend development to become a versatile Fullstack Developer.<br><br>📚 Committed to lifelong learning and embracing challenges to grow professionally in the dynamic world of technology.</h4>
 
-###
 
+# 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nikhilgholap1304&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=Nikhilgholap1304&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
@@ -9,11 +10,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhilgholap1304&area=true" height="150" alt="activity-graph graph"  />
 </div>
 
-###
 
 <img align="right" height="150" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=790b7611izugi35sabnt9z5c2hh20a4wfhfl10szfndtbm5n&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
+
 ###
+# 💻 Tech Stack:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -57,6 +59,7 @@
 
 ###
 
+## 🌐 Socials:
 <div align="left">
   <a href="https://www.instagram.com/nikhil__gholap1304/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
