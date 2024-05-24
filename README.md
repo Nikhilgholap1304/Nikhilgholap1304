@@ -3,12 +3,13 @@
 
 
 # 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhilgholap1304&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Nikhilgholap1304&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhilgholap1304&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhilgholap1304&area=true" height="150" alt="activity-graph graph"  />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhilgholap1304&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="200" alt="stats graph" /> <br><br>
+  <img src="https://streak-stats.demolab.com?user=Nikhilgholap1304&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="200" alt="streak graph" /> <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhilgholap1304&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="200" alt="languages graph" /> <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhilgholap1304&area=true" height="200" alt="activity-graph graph"  />
 </div>
+
 
 
 <img align="right" height="150" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=790b7611izugi35sabnt9z5c2hh20a4wfhfl10szfndtbm5n&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
@@ -73,12 +74,15 @@
 
 ###
 
-<br clear="both">
+---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<img src="https://raw.githubusercontent.com/Nikhilgholap1304/Nikhilgholap1304/output/snake.svg" alt="Snake animation" />
-
-###
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nikhilgholap1304&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=NikhilGholap1304&icon=6&color=7)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
