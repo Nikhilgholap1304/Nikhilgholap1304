@@ -81,7 +81,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂 Random Dev Meme
-<img src='https://https://meme-api.com/gimme/' style="height: 400px;"/>
+<img src='https://meme-api.com/gimme/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NikhilGholap1304&icon=6&color=7)](https://visitcount.itsvg.in)
